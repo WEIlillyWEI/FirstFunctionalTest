@@ -1,4 +1,4 @@
-package test;
+package test.java;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import cucumber.api.java.en.Given;

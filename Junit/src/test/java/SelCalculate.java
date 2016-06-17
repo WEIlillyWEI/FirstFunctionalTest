@@ -1,4 +1,4 @@
-package test;
+package test.java;
 
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;

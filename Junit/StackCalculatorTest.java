@@ -1,9 +1,11 @@
-package originalCalculator;
+package java;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class StackCalculatorTest {
+import originalCalculator.StackCalculator;
+
+public class TestStackCalculator {
 
 	@Test
 	public void subtractTest() throws Exception {
